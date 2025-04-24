@@ -1,2 +1,2 @@
 # Python-Practice-Project
-A place to practice
+This is a place to practice Python.
